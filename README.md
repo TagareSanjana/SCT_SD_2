@@ -29,5 +29,5 @@ The program provides hints whether the guess is too high or too low until the co
 ## ▶ How to Run the Project
 Clone the repository:
 ```bash
-git clone https://github.com/TagareSanjana/Guess_The_Number.git
+git clone https://github.com/TagareSanjana/SCT_SD_2.git
 cd Guess_The_Number
